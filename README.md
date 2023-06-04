@@ -21,9 +21,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/R3TR0Quan)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/R3TR0Quan)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/R3TR0Quan)
-[![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/R3TR0Quan)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/R3TR0Quan)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/R3TR0Quan)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/R3TR0Quan)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/R3TR0Quan)
 
@@ -47,22 +45,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/R3TR0Quan)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/R3TR0Quan)
 
-| Technology Stack | Image |
-| --- | --- |
-| [Python](https://www.python.org) | <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> |
-| [Java](https://docs.oracle.com/javase/8/docs/api/) | <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="java" width="75" height="75"/> </a> |
-| [Linux](https://www.linux.org/) | <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/> </a> |
-| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a> |
-| [SciKitLearn](https://scikit-learn.org/stable/) | <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/master/doc/logos/scikit-learn-logo.svg" alt="scikitlearn" width="75" height="75"/> </a> |
-| [TensorFlow](https://www.tensorflow.org/) | <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/tensorflow/images/lockup.svg" alt="tensorflow" width="75" height="75"/> </a> |
-| [OpenCV](https://opencv.org/) | <a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="opencv" width="75" height="75"/> </a> |
-| [Keras](https://keras.io/) | <a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo-small.png" alt="keras" width="75" height="75"/> </a> |
-| [Pytorch](https://pytorch.org/) | <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" alt="pytorch" width="75" height="75"/> </a> |
-| [NumPy](https://numpy.org/) | <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="75" height="75"/> </a> |
-| [Pandas](https://pandas.pydata.org/docs/) | <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="pandas" width="75" height="75"/> </a> |
-| [Prophet](https://facebook.github.io/prophet/docs/quick_start.html) | <a href="https://facebook.github.io/prophet/docs/quick_start.html" target="_blank"> <img src="https://facebook.github.io/prophet/static/wordmark.svg" alt="prophet-tsa" width="75" height="75"/> </a> |
-| [SQLite](https://www.sqlite.org/index.html) | <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sql" width="75" height="75"/> </a> |
-|
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R3TR0Quan&show_icons=true&locale=en&layout=compact" alt="mylangs" /></p>
 
