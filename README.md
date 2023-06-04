@@ -43,7 +43,7 @@
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/R3TR0Quan)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/R3TR0Quan)
-[![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/R3TR0Quan)
+[![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=mlflow&logoColor=blue)](https://github.com/R3TR0Quan)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/R3TR0Quan)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/R3TR0Quan)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/R3TR0Quan)
