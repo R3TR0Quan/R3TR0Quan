@@ -51,13 +51,13 @@
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)](https://opencv.org/)
 [![Prophet](https://img.shields.io/badge/Prophet-blue?style=for-the-badge&logo=prophet)](https://facebook.github.io/prophet/)
-[![SQLite 3](https://img.shields.io/badge/SQLite-3-blue?style=for-the-badge&logo=sqlite)](https://www.sqlite.org/index.html)
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-yellow?style=for-the-badge&logo=django)](https://github.com/R3TR0Quan)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/R3TR0Quan)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/R3TR0Quan)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/R3TR0Quan)
+[![SQLite 3](https://img.shields.io/badge/SQLite-3-blue?style=for-the-badge&logo=sqlite)](https://www.sqlite.org/index.html)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/R3TR0Quan)
