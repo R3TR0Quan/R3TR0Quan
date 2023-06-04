@@ -68,8 +68,8 @@
 </details>
 
 <p align="center">
-  <a href="https://github.com/Ramatich">
-    <img src="https://komarev.com/ghpvc/?username=Ramatich&color=blue&style=flat)" />
+  <a href="https://github.com/R3TR0Quan">
+    <img src="https://komarev.com/ghpvc/?username=R3TR0Quan&color=blue&style=flat)" />
   </a>
 </p>
 
