@@ -2,12 +2,10 @@
 <h3 align="center"> ML Engineer / Data scientist </h3>
 
 <p align="center">
-    <li>
 <ul>🌱 <i>I’m currently a practicing freelance ML engineer</i>
 <ul>💬 <i>Ask me about Data Science, AI, ML, Software Development etc</i>
 <ul>📫 <i>How to reach me **joshuarwanda@gmail.com**</i>
 <ul>⚡ <i>Call me Professor Gadget, I teach the machines</i>⚡
-    </li>
 <br>
     <a href="https://www.linkedin.com/in/joshua-rwanda-a902b51a6/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
