@@ -36,7 +36,6 @@
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/R3TR0Quan)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/R3TR0Quan)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/R3TR0Quan)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/R3TR0Quan)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/R3TR0Quan)
@@ -50,6 +49,29 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R3TR0Quan&show_icons=true&locale=en&layout=compact" alt="mylangs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=R3TR0Quan&show_icons=true&locale=en" alt="mystats" /></p>
+
+<details>
+<p align="center">
+  <a href="https://github.com/R3TR0Quan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3TR0Quan&theme=transparent" />
+  </a>
+  <a href="https://github.com/R3TR0Quan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=R3TR0Quan&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/R3TR0Quan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R3TR0Quan&theme=transparent" />
+  </a>
+  <a href="https://github.com/R3TR0Quan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3TR0Quan&langs_count=10&exclude_repo=&hide=&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/Ramatich">
+    <img src="https://komarev.com/ghpvc/?username=Ramatich&color=blue&style=flat)" />
+  </a>
+</p>
 
 ## Nostalgia :relieved:
 ![snake](https://github.com/R3TR0Quan/R3TR0Quan/blob/main/dist/github-contribution-grid-snake.gif)
