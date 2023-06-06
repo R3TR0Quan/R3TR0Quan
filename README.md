@@ -84,7 +84,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R3TR0Quan&theme=transparent" />
   </a>
   <a href="https://github.com/R3TR0Quan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3TR0Quan&langs_count=10&exclude_repo=&hide=jupyter%20notebooks&layout=donut_vertical&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3TR0Quan&langs_count=10&exclude_repo=&layout=donut_vertical" />
   </a>
 </p>
 </details>
