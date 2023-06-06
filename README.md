@@ -68,7 +68,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R3TR0Quan&show_icons=true&locale=en&layout=compact" alt="mylangs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R3TR0Quan&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="mylangs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=R3TR0Quan&show_icons=true&locale=en&theme=shades-of-purple" alt="mystats" /></p>
 
@@ -84,7 +84,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R3TR0Quan&theme=transparent" />
   </a>
   <a href="https://github.com/R3TR0Quan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3TR0Quan&theme=shades-of-purple" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3TR0Quan&theme=transparent&layout=compact" />
   </a>
 </p>
 </details>
