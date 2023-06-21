@@ -66,7 +66,11 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/R3TR0Quan)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/R3TR0Quan)
 
+<h3 align="center">Wakatime Stats:</h3>
 
+<figure align='center'><embed src="https://wakatime.com/share/@64c66160-ddca-400a-a787-bdbf0f23fa23/b34fcc69-266c-4b88-813d-cb3565dccb64.svg"></embed></figure>
+
+<figure align='center'><embed src="https://wakatime.com/share/@64c66160-ddca-400a-a787-bdbf0f23fa23/d1c4b457-8d60-44ce-afe7-41b65c589221.svg"></embed></figure>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R3TR0Quan&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="mylangs" /></p>
 
