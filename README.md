@@ -66,7 +66,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/R3TR0Quan)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/R3TR0Quan)
 
-<h3 align="left">Wakatime Stats:</h3>
+<h3 align="center">Wakatime Stats:</h3>
 
 <p align="center"><img width="500" height="500" src="https://wakatime.com/share/@64c66160-ddca-400a-a787-bdbf0f23fa23/b34fcc69-266c-4b88-813d-cb3565dccb64.svg" alt="wakatime-os-stats"/></p>
 
