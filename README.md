@@ -68,9 +68,11 @@
 
 <h3 align="center">Wakatime Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://wakatime.com/share/@64c66160-ddca-400a-a787-bdbf0f23fa23/b34fcc69-266c-4b88-813d-cb3565dccb64.svg" alt="wakatime-os-stats" width="400" height="400"/></p>
+<div style="text-align:center">
+<p>&nbsp;<img align="center" src="https://wakatime.com/share/@64c66160-ddca-400a-a787-bdbf0f23fa23/b34fcc69-266c-4b88-813d-cb3565dccb64.svg" alt="wakatime-os-stats" width="500" height="500"/></p>
 
-<p>&nbsp;<img align="center" src="https://wakatime.com/share/@64c66160-ddca-400a-a787-bdbf0f23fa23/d1c4b457-8d60-44ce-afe7-41b65c589221.svg" alt="wakatime-os-stats" width="400" height="400"/></p>
+<p>&nbsp;<img align="center" src="https://wakatime.com/share/@64c66160-ddca-400a-a787-bdbf0f23fa23/d1c4b457-8d60-44ce-afe7-41b65c589221.svg" alt="wakatime-os-stats" width="500" height="500"/></p>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R3TR0Quan&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="mylangs" /></p>
 
