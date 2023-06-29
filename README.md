@@ -30,7 +30,7 @@
  </a>
 </br>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools :</h3>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-purple?style=for-the-badge&logo=python)](https://github.com/R3TR0Quan)
